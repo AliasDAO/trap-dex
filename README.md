@@ -1,8 +1,10 @@
 
-# Trap.DEX
+# Trap DEX
 
-The code for the [Trap.DEX](https://trapdex.com) dApp.<br />
+The code for the [Trap DEX](https://trapdex.com) dApp.<br />
 It is powered by [synthetix-data](https://github.com/Synthetixio/synthetix-data) and [synthetix-js](https://github.com/Synthetixio/synthetix-js).
+
+A Decentralized Exchange that supports a multitude of assets on the blockchain and allows automated trading functions across similar markets.
 
 ## Available Scripts
 
